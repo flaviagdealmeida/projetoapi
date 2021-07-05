@@ -1,0 +1,19 @@
+{
+    "name": "tests",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Aula22.sln",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/flaviagdealmeida/projetoapi.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/flaviagdealmeida/projetoapi/issues"
+    },
+    "homepage": "https://github.com/flaviagdealmeida/projetoapi#readme"
+  }
